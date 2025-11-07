@@ -17,7 +17,7 @@
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,c,html,css,git,github,eclipse,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,js,c,html,css,git,github,eclipse,vscode,dart" height="45"/>
 </div>
 
 <hr>
