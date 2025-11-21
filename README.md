@@ -8,9 +8,9 @@
   <li>🧩 <strong>Lógica de programação</strong> e <strong>algoritmos</strong></li>
   <li>🔗 <strong>Versionamento e colaboração</strong> com <strong>Git</strong> e <strong>GitHub</strong></li>
   <li>🌐 Fundamentos de <strong>JavaScript</strong>, <strong>C</strong>, <strong>HTML</strong> e <strong>CSS</strong></li>
-  <li>☕ Noções em <strong>Java</strong> com foco em <strong>Programação Orientada a Objetos (POO)</strong></li>
-  <li>🛠️ Familiaridade com a IDE <strong>Eclipse</strong></li>
-  <li>📱 Interesse em desenvolvimento mobile: <strong>Dart/Flutter</strong></li>
+  <li>☕ Noções/interesse em <strong>Java</strong> com foco em <strong>Programação Orientada a Objetos (POO)</strong></li>
+  <li>📱 Noções de <strong>Dart - (POO)</strong></li>
+  <li>🛠️ Familiaridade com as IDEs <strong>Eclipse - NetBeans - VSCode</strong></li>
 </ul>
 
 <hr>
