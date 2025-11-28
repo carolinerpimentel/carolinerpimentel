@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Caroline Pimentel</h1>
 <p align="center">
-  <em>Desenvolvedora | Foco em desenvolvimento de aplicativos móveis</em>
+  <em>Desenvolvedora | Foco em desenvolvimento java</em>
 </p>
 
 <ul>
